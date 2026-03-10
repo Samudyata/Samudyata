@@ -65,6 +65,7 @@ me.say_hi()
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-FF4500?style=for-the-badge&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -146,8 +147,17 @@ Recognized for outstanding performance as Production Support Engineer
 <a href="https://github.com/buildinghumanetech/humane-ai-rater">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=buildinghumanetech&repo=humane-ai-rater&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
 </a>
+<a href="https://github.com/Samudyata/Multi-Agent-Framework-TauBench">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samudyata&repo=Multi-Agent-Framework-TauBench&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Samudyata/Mental-Health-Chatbot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samudyata&repo=Mental-Health-Chatbot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+</a>
 <a href="https://github.com/Samudyata/SwarmMind">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samudyata&repo=SwarmMind&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Samudyata/Buck-Converter-LT8631">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samudyata&repo=Buck-Converter-LT8631&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -169,7 +179,7 @@ Recognized for outstanding performance as Production Support Engineer
 <summary><b>🚀 Project Intern — Indian Space Research Organization (ISRO)</b> (Jan 2023 – Jun 2023)</summary>
 <br/>
 
-- Designed and validated space-grade embedded power systems
+- Designed and validated space-grade embedded power systems ([Buck Converter LT8631](https://github.com/Samudyata/Buck-Converter-LT8631))
 - Improved reliability testing throughput for mission-critical deployments
 </details>
 
