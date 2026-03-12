@@ -2,13 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6C63FF&height=220&section=header&text=Samudyata%20Sudarshan%20Jagirdar&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20MS%20Computer%20Engineering%20%40%20ASU%20%7C%20Gold%20Medalist&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+Intelligent+Systems+that+Matter;Deep+Learning+%7C+NLP+%7C+Computer+Vision+%7C+Edge+AI;From+Embedded+Systems+to+Large+Language+Models)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Building+Intelligent+Systems+that+Matter;Deep+Learning+%7C+NLP+%7C+Computer+Vision+%7C+Edge+AI;From+Embedded+Systems+to+Large+Language+Models)](https://git.io/typing-svg)
 
 <p>
 <a href="mailto:samudyata14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/samudyata-jagirdar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Samudyata"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Samudyata&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
 </p>
 
 </div>
